@@ -3,7 +3,6 @@
 
     --- ENDING MENU ---
 
-    Flanders, Ian Alexander
     Patrick, Brenan
 """
 from functools import partial
