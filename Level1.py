@@ -3,7 +3,6 @@
 
     --- LEVEL 1 ---
 
-    Flanders, Ian Alexander
     Patrick, Brenan
 """
 import sys, pygame, random
